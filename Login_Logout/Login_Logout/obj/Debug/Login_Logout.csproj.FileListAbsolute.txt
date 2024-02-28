@@ -1,0 +1,11 @@
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\bin\Debug\Login_Logout.exe.config
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\bin\Debug\Login_Logout.exe
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\bin\Debug\Login_Logout.pdb
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.csproj.AssemblyReference.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.Form1.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.Properties.Resources.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.csproj.GenerateResource.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.csproj.CoreCompileInputs.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.exe
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.pdb
+F:\2_2023-2024\.NET\Winform\BaiTap\Login_Logout\Login_Logout\obj\Debug\Login_Logout.Main_1.resources
