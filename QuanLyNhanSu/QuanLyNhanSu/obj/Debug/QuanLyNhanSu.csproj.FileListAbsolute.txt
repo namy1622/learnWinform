@@ -1,0 +1,16 @@
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormAddNewEmployee.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormUsers.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEditEmployee.resources
+F:\2_2023-2024\.NET\Winform\BaiTap\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormShowInfo.resources
