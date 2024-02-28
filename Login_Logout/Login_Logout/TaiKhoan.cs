@@ -24,6 +24,7 @@ namespace Login_Logout
         {
             this.TenTaiKhoan = tenTaiKhoan;
             this.TenMatKhau = tenMatKhau;
+		// nam sua 
             
         }
     }
