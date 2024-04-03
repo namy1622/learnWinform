@@ -1,0 +1,10 @@
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.csproj.AssemblyReference.cache
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.Form1.resources
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.Properties.Resources.resources
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.csproj.GenerateResource.cache
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.csproj.CoreCompileInputs.cache
+E:\Cs\Net\Sql\sentEmail\sentEmail\bin\Debug\sentEmail.exe.config
+E:\Cs\Net\Sql\sentEmail\sentEmail\bin\Debug\sentEmail.exe
+E:\Cs\Net\Sql\sentEmail\sentEmail\bin\Debug\sentEmail.pdb
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.exe
+E:\Cs\Net\Sql\sentEmail\sentEmail\obj\Debug\sentEmail.pdb
