@@ -1,0 +1,43 @@
+﻿CREATE DATABASE ShoppingCartDB;
+GO
+
+USE ShoppingCartDB;
+GO
+
+CREATE TABLE Customers(
+	ID INT PRIMARY KEY,
+	Name NVARCHAR(100),
+	Mobile NVARCHAR(50)
+)
+GO
+INSERT INTO Customers VALUES (101, 'Quyen', '1354354453')
+INSERT INTO Customers VALUES (102, 'Freetuts', '134543543')
+INSERT INTO Customers VALUES (103, 'Nam', '220600')
+GO
+
+CREATE TABLE Orders(
+	ID INT PRIMARY KEY,
+	CustomerId INT,
+	Amount INT
+)
+GO
+INSERT INTO Orders VALUES (10011, 103, 20000)
+INSERT INTO Orders VALUES (10012, 101, 20000)
+INSERT INTO Orders VALUES (10013, 102, 20000)
+GO
+
+SELECT * FROM Customers
+GO
+SELECT * FROM  Orders
+GO
+
+UPDATE Orders
+SET Amount = 30000
+Where ID = 10012
+
+
+
+
+
+
+ 
