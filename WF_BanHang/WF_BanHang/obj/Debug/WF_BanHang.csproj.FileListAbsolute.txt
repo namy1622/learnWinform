@@ -1,0 +1,17 @@
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\bin\Debug\Database1.mdf
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\bin\Debug\Database1_log.ldf
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\bin\Debug\WF_BanHang.exe.config
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\bin\Debug\WF_BanHang.exe
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\bin\Debug\WF_BanHang.pdb
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.csproj.AssemblyReference.cache
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.DonHang.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.NhaCungCap.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.TrangChu.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.KhachHang.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.Properties.Resources.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.SanPham.resources
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.csproj.GenerateResource.cache
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.csproj.CoreCompileInputs.cache
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.exe
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.pdb
+E:\Cs\Net\Sql\WF_BanHang\WF_BanHang\obj\Debug\WF_BanHang.test.resources
